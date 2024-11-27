@@ -1,2 +1,2 @@
 # DCG
-Diseño de la comunicación gráfica
+Diseño de la comunicación gráfica.
